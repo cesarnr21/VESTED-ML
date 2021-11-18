@@ -6,7 +6,6 @@
 - Figure out laptop situation:
     -   Ask TechZone for donations
     -   Ask CEER person (Ryan knows about this)
-    -   
 
 ## Materials Needed for Project:
 **Hardware**
