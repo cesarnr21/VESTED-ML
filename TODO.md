@@ -6,6 +6,7 @@
 - Figure out laptop situation:
     -   Ask TechZone for donations
     -   Ask CEER person (Ryan knows about this)
+    -   Buying Cheap used laptops. (maybe chromebooks?)
 
 ## Materials Needed for Project:
 **Hardware**
