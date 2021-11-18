@@ -6,15 +6,17 @@ Introduction to collaboration
 Environment setup
 - Linux
 - Git
-- Python
+- Python / Pip
+- VSCode / VSCodium
+- TensorFlow / SciKit / PyTorch / Keras
 
 ## Week 2
-- AI ethics dilemma
-- Autonomous driving
-- Autonomous parking
-
-## Week 3
 - Artificial Intelligence
 - Machine learning
 - Deep learning
 - Neural networks
+
+## Week 5
+- AI ethics dilemma
+- Autonomous driving
+- Autonomous parking
