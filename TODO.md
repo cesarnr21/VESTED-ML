@@ -1,6 +1,6 @@
 
 # To Do List
-
+- **Question:** Should we stop using this document as a to do list or create issues instead?
 - Add Ahmed as a contributor
 - Make a decision on a Machine Learning Platform: Tensorflow, PyTorch, Scikit
 - Figure out laptop situation:
