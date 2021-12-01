@@ -4,6 +4,7 @@
 ### Week 1 (01/22)
 Project Pitch (5 minutes)
 
+---------------------------------------------------
 ### Week 2 (01/29)
 **Section 1**: 2 Hours
 - Artificial Intelligence
@@ -22,6 +23,7 @@ Environment setup
 - VSCode / VSCodium
 - TensorFlow and Keras
 
+---------------------------------------------------
 ### Week 3 (02/05)
 **Section 1**: 1.5 Hours
 - Working Section
@@ -31,6 +33,7 @@ Environment setup
 
 >note: get Dr. Jiao for talk for one of the sessions above
 
+---------------------------------------------------
 ### Week 4 (02/12)
 **Section 1**: 30 Minutes
 - Talk about cool projects and uses of AI today and Jobs we can get
@@ -39,6 +42,7 @@ Environment setup
 **Section 2**: 1.5 Hours
 - Working Session
 
+---------------------------------------------------
 ### Week 5 (02/19)
 **Section 1**: 2 Hours
 - Working Session
@@ -48,9 +52,11 @@ Environment setup
 - Autonomous driving
 - Autonomous parking
 
+---------------------------------------------------
 ### Week 6 (03/12)
 **Section 1**: 1.5 Hours
 - Work on Slides for Closing Ceremony
 
+---------------------------------------------------
 ### Week 7 (03/19)
 Closing Ceremony
