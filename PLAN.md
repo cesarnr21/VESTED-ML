@@ -27,7 +27,9 @@ Environment setup
 ### Week 3 (02/05)
 **Section 1**: 1.5 Hours
 - Working Section
-
+- Get Pictures
+- Machine Learning Concepts
+- Begining Examples
 
 **Section 2**: 1.5 Hours
 
@@ -38,14 +40,16 @@ Environment setup
 **Section 1**: 30 Minutes
 - Talk about cool projects and uses of AI today and Jobs we can get
 
-
 **Section 2**: 1.5 Hours
 - Working Session
+- Training Models
+- Looking for new pictures for future predictions
 
 ---------------------------------------------------
 ### Week 5 (02/19)
 **Section 1**: 2 Hours
 - Working Session
+- Test models on never seen before pictures
 
 **Section 2**: 2 Hours
 - AI ethics dilemma
